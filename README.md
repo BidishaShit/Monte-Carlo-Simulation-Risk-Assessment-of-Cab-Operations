@@ -1,4 +1,4 @@
-# README: Monte Carlo Simulation & Risk Assessment of Cab Operations (January 2026)
+# Monte Carlo Simulation & Risk Assessment of Cab Operations (January 2026)
 
 ## Project Overview
 
