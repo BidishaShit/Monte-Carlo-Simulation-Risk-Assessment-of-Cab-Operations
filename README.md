@@ -49,16 +49,9 @@ The model answers two central business questions:
 
 ## Summary of Key Findings
 
-1. **Baseline Operating Surplus:** Across 10,000 simulated paths, the mean monthly operating surplus is **₹622,496.80** (Median P50: **₹624,064.46**; Central 90% interval P05–P95: **₹354,786.78 to ₹887,164.38**).
-2. **Loss vs. Shortage Risk:**
-* **Monthly Operating Loss Probability:** **0.00%** (minimum surplus across all paths was +₹96,336.89).
-* **Cash Shortage Probability:** **0.00%** assuming an opening cash balance of **₹1,000,000.00**.
+If operating conditions in January 2026 remain structurally similar to 2025 and fuel prices stay within baseline levels, the cab business is expected to earn an estimated average monthly operating surplus of ₹6.22 Lakh (central 90% range: ₹3.55 Lakh to ₹8.87 Lakh), with ₹7.31 Lakh in opening cash providing a 95% model-based liquidity buffer.
 
-
-3. **Opening Cash Reserve:** The 95th percentile required opening cash reserve ($R_{95}$) is **₹730,834.07**.
-4. **Fuel Stress Tests:**
-* **+10% Fuel Cost:** Mean surplus drops to **₹377,762.56** (Loss probability: **0.45%**).
-* **+20% Fuel Cost:** Mean surplus drops to **₹133,028.32** (Loss probability: **19.54%**).
+However, if fuel prices rise by 20%, operating surplus will shrink dramatically to a median of ₹1.34 Lakh, with a 19.54% risk of an operating loss.
 
 
 
